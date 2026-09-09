@@ -15,7 +15,7 @@
 
 <!--Intro end-->
 
-<p align="center">
+
 
 
 
@@ -38,9 +38,7 @@
   </ul>
 </div>
 <!--tech stack icons-->
-
-
-
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
   </a>
@@ -53,11 +51,6 @@
   <ul align="center">
     <summary><h2 style="display: inline-block">CONECTA CONMIGO</h2></summary>
   </ul>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
-
-
-
-
 
 
