@@ -15,10 +15,6 @@
 
 <!--Intro end-->
 
-
-
-
-
 <!--- trophy (start) -->
 <div align=center>
   
