@@ -11,7 +11,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on AWS, React, React Native, Nodejs, MongoDB
+- 🔭 DESARROLLADOR FULL STACK
 
 <!--Intro end-->
 
