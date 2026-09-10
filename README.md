@@ -10,7 +10,7 @@
 
 
 <!--Intro start-->
-- 🔭 DESARROLLADOR FULL STACK
+- 🔭 DESARROLLADOR FULL STACK.......
 
 <!--Intro end-->
 
